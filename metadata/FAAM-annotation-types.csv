@@ -1,0 +1,170 @@
+Name,Wikidata QID,subclass of,instance of
+Divisi,Q1230694,,musical concept
+Divisi,Q1230694,,musical notation
+sharp sign,Q2542618,accidental,musical notation
+flat sign,Q7001368,accidental,musical notation
+natural sign,Q747691,accidental,musical notation
+legato,Q649116,articulation,musical notation
+legato,Q649116,articulation,glyph
+staccatissimo,Q671521,articulation,musical notation
+staccatissimo,Q671521,accent,musical notation
+staccato,Q466944,articulation,musical notation
+staccato,Q466944,accent,musical notation
+accent,Q424494,articulation,musical notation
+articulation,Q372923,timbre,musical notation
+articulation,Q372923,timbre,musical concept
+timbre,Q176501,aspect of sound,musical concept
+timbre,Q176501,aspect of sound,sound concept
+loudness,Q622324,aspect of sound,sound concept
+loudness,Q622324,aspect of sound,musical concept
+tempo,Q189214,aspect of sound,musical concept
+tempo,Q189214,aspect of sound,sound concept
+forte,Q1191094,loudness,musical notation
+forte,Q1191094,dynamic,musical notation
+mezzoforte,Q7258512,loudness,musical notation
+mezzoforte,Q7258512,dynamic,musical notation
+fortepiano,Q2192323,loudness,musical notation
+fortepiano,Q2192323,dynamic,musical notation
+mezzopiano,Q2147562,loudness,musical notation
+mezzopiano,Q2147562,dynamic,musical notation
+piano,Q2707020,loudness,musical notation
+piano,Q2707020,dynamic,musical notation
+variation,Q16920157,musical technique,musical technique
+clef,Q181040,,musical notation
+voice leading,Q2027877,musical technique,musical-structural concept
+musica ficta,Q1852714,accidental,musical notation
+musica ficta,Q1852714,accidental,musical concept
+bookplate,Q188456,impression,impression
+ad libitum,Q310735,musical improvisation,musical notation
+ink stamp,Q57305415,impression,
+citation,Q1713,reference,
+slur,Q863575,glyph,musical notation
+date,Q186408,measurement,
+signature,Q188675,,glyph
+portato,Q1930998,articulation,musical notation
+tre le corde,,musical technique,musical notation
+tre le corde,,timbre,musical notation
+una corda,,timbre,musical notation
+una corda,,musical technique,musical notation
+release pedal,Q124518670,timbre,musical notation
+release pedal,Q124518670,musical technique,musical notation
+engage pedal,Q124518660,timbre,musical notation
+engage pedal,Q124518660,musical technique,musical notation
+bowing,Q9338812,musical technique,musical notation
+bowing,Q9338812,articulation,musical notation
+string harmonic,Q576006,musical technique,musical notation
+string harmonic,Q576006,timbre,musical notation
+pizzicato,Q213460,articulation,musical notation
+pizzicato,Q213460,musical technique,musical notation
+arco,,articulation,musical notation
+arco,,musical technique,musical notation
+tenuto,Q1542153,articulation,musical notation
+tempo primo,Q2158106,tempo,musical notation
+tactus subdivision,,beat,
+tactus subdivision,,tempo,
+numeric time signature,,time signature,musical notation
+numeric time signature,,tempo,musical notation
+ma non troppo,Q2517964,,musical notation
+stringendo,Q2735115,tempo,musical notation
+ritenuto,Q1646162,tempo,musical notation
+ritardando,Q1671019,tempo,musical notation
+rallentando,Q577213,tempo,musical notation
+presto,Q2096748,tempo,musical notation
+metronome mark,Q124518125,tempo,musical notation
+metronome mark,Q124518125,measurement,musical notation
+largo,Q1805930,tempo,musical notation
+andante,Q2499193,tempo,musical notation
+allegro,Q2081524,tempo,musical notation
+adagio,Q482153,tempo,musical notation
+accelerando,Q338639,tempo,musical notation
+diminuendo,,loudness,musical notation
+decrescendo,Q1994559,loudness,musical notation
+crescendo,Q2347888,loudness,musical notation
+dynamic,Q113558,loudness,aspect of sound
+sforzando,Q1993030,loudness,musical notation
+pianissimo,Q953127,loudness,musical notation
+fortissimo,Q3748790,loudness,musical notation
+realization of figured bass,Q96401348,musical technique,music theory
+realization of figured bass,Q96401348,musical technique,musical technique
+realization of figured bass,Q96401348,musical technique,musical improvisation
+transposition,Q815323,musical technique,musical concept
+instrument reconstruction,,musical technique,music theory
+colla parte,,musical technique,musical technique
+tacet,Q1567967,,musical notation
+instrument substitution,,,
+add measure,,,
+transliteration,Q134550,,
+translation,Q7553,,
+cut,,,musical notation
+alternative lyrics,,,
+passaggio,,ornament,musical improvisation
+alternative melody,,,
+cadenza,Q1069389,musical technique,musical improvisation
+octave sign,,pitch,musical notation
+accidental,Q816335,pitch,musical notation
+repeat sign,Q17137002,tempo,musical notation
+tremolo,Q123171932,ornament,musical notation
+glissando,Q471744,ornament,musical notation
+double appoggiatura,Q123058117,ornament,musical notation
+appoggiatura,Q1757335,ornament,musical notation
+turn,Q61542,ornament,musical notation
+mordent,Q48811,ornament,musical notation
+trill,Q75859,ornament,musical notation
+ornament,Q739589,musical technique,musical technique
+leggiero,Q1812562,affect,musical concept
+leggiero,Q1812562,affect,musical notation
+dolce,Q109520245,affect,musical concept
+dolce,Q109520245,affect,musical notation
+espressivo,Q109371111,affect,musical notation
+espressivo,Q109371111,affect,musical concept
+affect,Q159904,,
+musical phrasing,Q15130689,articulation,musical concept
+echo,Q182767,,musical technique
+echo,Q182767,,aspect of sound
+fermata,Q830328,,musical notation
+breath mark,Q754458,,musical notation
+messa di voce,Q1537440,musical technique,musical technique
+messa di voce,Q1537440,,musical notation
+arpeggio,Q506986,,musical technique
+vibrato,Q377435,musical technique,musical technique
+marcato,Q2524785,articulation,musical notation
+tenuto,Q1542153,articulation,musical notation
+comparative study,Q58901591,,music theory
+comparison,Q1720648,,
+phrase analysis,,,music theory
+Roman numeral analysis,Q2358919,,music theory
+Roman numeral analysis,Q2358919,,musical notation
+chord symbol,Q1504804,,musical notation
+chord symbol,Q1504804,,music theory
+figured bass,Q349603,,musical notation
+figured bass,Q349603,,numerical digit
+solmization,Q223064,,music theory
+Volti subito,Q2268953,,musical notation
+Volti subito,Q2268953,,musical concept
+performance practice,Q124518087,,musical concept
+chronometry,Q186398,measurement,
+instrument call,,,musical notation
+Rehearsal letter,Q1094518,,musical notation
+Rehearsal letter,Q1094518,,musical-structural concept
+measure subdivision,,tempo,musical-structural concept
+measure subdivision,,tempo,glyph
+rest measure count,,,musical notation
+rest measure count,,,numerical digit
+bar number,,,musical notation
+bar number,,,glyph
+bar number,,,numerical digit
+bar,Q3240892,,musical-structural concept
+dashed line,,,glyph
+arrow,,,glyph
+pointer,,,glyph
+deletion,,,glyph
+brackets,Q174565,,glyph
+vertical break,,,glyph
+bounding,,,glyph
+underline,Q1187096,,glyph
+ossia,Q2032873,,musical concept
+custos,Q124518047,,musical notation
+Instrument Cue,,,musical notation
+fingering,Q608487,,musical concept
+fingering,Q608487,,musical notation
+pitch,Q118819,aspect of sound,musical concept
