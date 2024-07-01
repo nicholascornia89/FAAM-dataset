@@ -1,170 +1,788 @@
-Name,Wikidata QID,subclass of,instance of
-Divisi,Q1230694,,musical concept
-Divisi,Q1230694,,musical notation
-sharp sign,Q2542618,accidental,musical notation
-flat sign,Q7001368,accidental,musical notation
-natural sign,Q747691,accidental,musical notation
-legato,Q649116,articulation,musical notation
-legato,Q649116,articulation,glyph
-staccatissimo,Q671521,articulation,musical notation
-staccatissimo,Q671521,accent,musical notation
-staccato,Q466944,articulation,musical notation
-staccato,Q466944,accent,musical notation
-accent,Q424494,articulation,musical notation
-articulation,Q372923,timbre,musical notation
-articulation,Q372923,timbre,musical concept
-timbre,Q176501,aspect of sound,musical concept
-timbre,Q176501,aspect of sound,sound concept
-loudness,Q622324,aspect of sound,sound concept
-loudness,Q622324,aspect of sound,musical concept
-tempo,Q189214,aspect of sound,musical concept
-tempo,Q189214,aspect of sound,sound concept
-forte,Q1191094,loudness,musical notation
-forte,Q1191094,dynamic,musical notation
-mezzoforte,Q7258512,loudness,musical notation
-mezzoforte,Q7258512,dynamic,musical notation
-fortepiano,Q2192323,loudness,musical notation
-fortepiano,Q2192323,dynamic,musical notation
-mezzopiano,Q2147562,loudness,musical notation
-mezzopiano,Q2147562,dynamic,musical notation
-piano,Q2707020,loudness,musical notation
-piano,Q2707020,dynamic,musical notation
-variation,Q16920157,musical technique,musical technique
-clef,Q181040,,musical notation
-voice leading,Q2027877,musical technique,musical-structural concept
-musica ficta,Q1852714,accidental,musical notation
-musica ficta,Q1852714,accidental,musical concept
-bookplate,Q188456,impression,impression
-ad libitum,Q310735,musical improvisation,musical notation
-ink stamp,Q57305415,impression,
-citation,Q1713,reference,
-slur,Q863575,glyph,musical notation
-date,Q186408,measurement,
-signature,Q188675,,glyph
-portato,Q1930998,articulation,musical notation
-tre le corde,,musical technique,musical notation
-tre le corde,,timbre,musical notation
-una corda,,timbre,musical notation
-una corda,,musical technique,musical notation
-release pedal,Q124518670,timbre,musical notation
-release pedal,Q124518670,musical technique,musical notation
-engage pedal,Q124518660,timbre,musical notation
-engage pedal,Q124518660,musical technique,musical notation
-bowing,Q9338812,musical technique,musical notation
-bowing,Q9338812,articulation,musical notation
-string harmonic,Q576006,musical technique,musical notation
-string harmonic,Q576006,timbre,musical notation
-pizzicato,Q213460,articulation,musical notation
-pizzicato,Q213460,musical technique,musical notation
-arco,,articulation,musical notation
-arco,,musical technique,musical notation
-tenuto,Q1542153,articulation,musical notation
-tempo primo,Q2158106,tempo,musical notation
-tactus subdivision,,beat,
-tactus subdivision,,tempo,
-numeric time signature,,time signature,musical notation
-numeric time signature,,tempo,musical notation
-ma non troppo,Q2517964,,musical notation
-stringendo,Q2735115,tempo,musical notation
-ritenuto,Q1646162,tempo,musical notation
-ritardando,Q1671019,tempo,musical notation
-rallentando,Q577213,tempo,musical notation
-presto,Q2096748,tempo,musical notation
-metronome mark,Q124518125,tempo,musical notation
-metronome mark,Q124518125,measurement,musical notation
-largo,Q1805930,tempo,musical notation
-andante,Q2499193,tempo,musical notation
-allegro,Q2081524,tempo,musical notation
-adagio,Q482153,tempo,musical notation
-accelerando,Q338639,tempo,musical notation
-diminuendo,,loudness,musical notation
-decrescendo,Q1994559,loudness,musical notation
-crescendo,Q2347888,loudness,musical notation
-dynamic,Q113558,loudness,aspect of sound
-sforzando,Q1993030,loudness,musical notation
-pianissimo,Q953127,loudness,musical notation
-fortissimo,Q3748790,loudness,musical notation
-realization of figured bass,Q96401348,musical technique,music theory
-realization of figured bass,Q96401348,musical technique,musical technique
-realization of figured bass,Q96401348,musical technique,musical improvisation
-transposition,Q815323,musical technique,musical concept
-instrument reconstruction,,musical technique,music theory
-colla parte,,musical technique,musical technique
-tacet,Q1567967,,musical notation
-instrument substitution,,,
-add measure,,,
-transliteration,Q134550,,
-translation,Q7553,,
-cut,,,musical notation
-alternative lyrics,,,
-passaggio,,ornament,musical improvisation
-alternative melody,,,
-cadenza,Q1069389,musical technique,musical improvisation
-octave sign,,pitch,musical notation
-accidental,Q816335,pitch,musical notation
-repeat sign,Q17137002,tempo,musical notation
-tremolo,Q123171932,ornament,musical notation
-glissando,Q471744,ornament,musical notation
-double appoggiatura,Q123058117,ornament,musical notation
-appoggiatura,Q1757335,ornament,musical notation
-turn,Q61542,ornament,musical notation
-mordent,Q48811,ornament,musical notation
-trill,Q75859,ornament,musical notation
-ornament,Q739589,musical technique,musical technique
-leggiero,Q1812562,affect,musical concept
-leggiero,Q1812562,affect,musical notation
-dolce,Q109520245,affect,musical concept
-dolce,Q109520245,affect,musical notation
-espressivo,Q109371111,affect,musical notation
-espressivo,Q109371111,affect,musical concept
-affect,Q159904,,
-musical phrasing,Q15130689,articulation,musical concept
-echo,Q182767,,musical technique
-echo,Q182767,,aspect of sound
-fermata,Q830328,,musical notation
-breath mark,Q754458,,musical notation
-messa di voce,Q1537440,musical technique,musical technique
-messa di voce,Q1537440,,musical notation
-arpeggio,Q506986,,musical technique
-vibrato,Q377435,musical technique,musical technique
-marcato,Q2524785,articulation,musical notation
-tenuto,Q1542153,articulation,musical notation
-comparative study,Q58901591,,music theory
-comparison,Q1720648,,
-phrase analysis,,,music theory
-Roman numeral analysis,Q2358919,,music theory
-Roman numeral analysis,Q2358919,,musical notation
-chord symbol,Q1504804,,musical notation
-chord symbol,Q1504804,,music theory
-figured bass,Q349603,,musical notation
-figured bass,Q349603,,numerical digit
-solmization,Q223064,,music theory
-Volti subito,Q2268953,,musical notation
-Volti subito,Q2268953,,musical concept
-performance practice,Q124518087,,musical concept
-chronometry,Q186398,measurement,
-instrument call,,,musical notation
-Rehearsal letter,Q1094518,,musical notation
-Rehearsal letter,Q1094518,,musical-structural concept
-measure subdivision,,tempo,musical-structural concept
-measure subdivision,,tempo,glyph
-rest measure count,,,musical notation
-rest measure count,,,numerical digit
-bar number,,,musical notation
-bar number,,,glyph
-bar number,,,numerical digit
-bar,Q3240892,,musical-structural concept
-dashed line,,,glyph
-arrow,,,glyph
-pointer,,,glyph
-deletion,,,glyph
-brackets,Q174565,,glyph
-vertical break,,,glyph
-bounding,,,glyph
-underline,Q1187096,,glyph
-ossia,Q2032873,,musical concept
-custos,Q124518047,,musical notation
-Instrument Cue,,,musical notation
-fingering,Q608487,,musical concept
-fingering,Q608487,,musical notation
-pitch,Q118819,aspect of sound,musical concept
+﻿Name,"Wikidata QID","subclass of","instance of","musical parameter","used by"
+pitch,Q118819,,"musical concept",pitch,
+pitch,Q118819,,"aspect of sound",pitch,
+fingering,Q608487,"musical instrument part","musical concept",timbre,editor
+fingering,Q608487,"musical instrument part","musical concept",timbre,performer
+fingering,Q608487,"musical instrument part","musical notation",timbre,editor
+fingering,Q608487,"musical instrument part","musical notation",timbre,performer
+"Instrument Cue",,instrumentation,"musical notation",,conductor
+"Instrument Cue",,instrumentation,"musical notation",,performer
+custos,Q124518047,,"musical notation",pitch,editor
+custos,Q124518047,,"musical notation",pitch,performer
+ossia,Q2032873,variation,"musical concept",pitch,conductor
+ossia,Q2032873,variation,"musical concept",pitch,editor
+ossia,Q2032873,variation,"musical concept",pitch,performer
+ossia,Q2032873,variation,"musical concept",duration,conductor
+ossia,Q2032873,variation,"musical concept",duration,editor
+ossia,Q2032873,variation,"musical concept",duration,performer
+ossia,Q2032873,variation,"musical notation",pitch,conductor
+ossia,Q2032873,variation,"musical notation",pitch,editor
+ossia,Q2032873,variation,"musical notation",pitch,performer
+ossia,Q2032873,variation,"musical notation",duration,conductor
+ossia,Q2032873,variation,"musical notation",duration,editor
+ossia,Q2032873,variation,"musical notation",duration,performer
+underline,Q1187096,,glyph,,"scholar (owner)"
+underline,Q1187096,,glyph,,performer
+underline,Q1187096,,glyph,,conductor
+bounding,,,glyph,,conductor
+bounding,,,glyph,,performer
+"vertical break",,,glyph,,performer
+"vertical break",,,glyph,,conductor
+brackets,Q174565,,glyph,,editor
+brackets,Q174565,,glyph,,performer
+deletion,,,glyph,,conductor
+deletion,,,glyph,,performer
+deletion,,,glyph,,"scholar (owner)"
+"dashed line",,underline,glyph,,editor
+"dashed line",,underline,glyph,,performer
+arrow,,pointer,glyph,,conductor
+arrow,,pointer,glyph,,performer
+bar,Q3240892,,"musical-structural concept",duration,editor
+bar,Q3240892,,"musical notation",duration,editor
+"bar number",,,"musical notation",duration,conductor
+"bar number",,,"musical notation",duration,editor
+"bar number",,,"musical notation",duration,performer
+"rest measure count",,,"musical notation",duration,performer
+"rest measure count",,,"musical notation",duration,conductor
+"Rehearsal letter",Q1094518,,"musical notation",duration,conductor
+"Rehearsal letter",Q1094518,,"musical notation",duration,editor
+"Rehearsal letter",Q1094518,,"musical notation",duration,performer
+"Rehearsal letter",Q1094518,,"musical-structural concept",duration,conductor
+"Rehearsal letter",Q1094518,,"musical-structural concept",duration,editor
+"Rehearsal letter",Q1094518,,"musical-structural concept",duration,performer
+"instrument call",,instrumentation,"musical notation",timbre,conductor
+"instrument call",,instrumentation,"musical notation",timbre,performer
+"instrument call",,instrumentation,"musical notation",timbre,editor
+chronometry,Q186398,,"musical concept",duration,performer
+chronometry,Q186398,,"musical concept",duration,editor
+chronometry,Q186398,,"musical concept",duration,composer
+chronometry,Q186398,,"musical concept",duration,conductor
+solmization,Q223064,,"music theory",pitch,performer
+solmization,Q223064,,"music theory",pitch,editor
+solmization,Q223064,,"music theory",pitch,"scholar (owner)"
+solmization,Q223064,,"musical technique",pitch,performer
+solmization,Q223064,,"musical technique",pitch,editor
+solmization,Q223064,,"musical technique",pitch,"scholar (owner)"
+"figured bass",Q349603,,"musical notation",pitch,performer
+"figured bass",Q349603,,"musical notation",pitch,editor
+"figured bass",Q349603,,"musical notation",pitch,"scholar (owner)"
+"figured bass",Q349603,,"music theory",pitch,performer
+"figured bass",Q349603,,"music theory",pitch,editor
+"figured bass",Q349603,,"music theory",pitch,"scholar (owner)"
+"figured bass",Q349603,,"musical technique",pitch,performer
+"figured bass",Q349603,,"musical technique",pitch,editor
+"figured bass",Q349603,,"musical technique",pitch,"scholar (owner)"
+"Roman numeral analysis",Q2358919,,"music theory",pitch,"scholar (owner)"
+"Roman numeral analysis",Q2358919,,"music theory",pitch,editor
+"Roman numeral analysis",Q2358919,,"musical notation",pitch,"scholar (owner)"
+"Roman numeral analysis",Q2358919,,"musical notation",pitch,editor
+"chord symbol",Q1504804,,"musical notation",pitch,"scholar (owner)"
+"chord symbol",Q1504804,,"musical notation",pitch,editor
+"chord symbol",Q1504804,,"musical notation",pitch,performer
+"chord symbol",Q1504804,,"music theory",pitch,"scholar (owner)"
+"chord symbol",Q1504804,,"music theory",pitch,editor
+"chord symbol",Q1504804,,"music theory",pitch,performer
+"phrase analysis",,,"music theory",,editor
+"phrase analysis",,,"music theory",,"scholar (owner)"
+arpeggio,Q506986,ornament,"musical technique",duration,performer
+arpeggio,Q506986,ornament,"musical technique",pitch,performer
+arpeggio,Q506986,ornament,"musical notation",duration,performer
+arpeggio,Q506986,ornament,"musical notation",pitch,performer
+"breath mark",Q754458,"musical phrasing","musical notation",duration,performer
+"breath mark",Q754458,"musical phrasing",glyph,duration,performer
+"breath mark",Q754458,articulation,"musical notation",duration,performer
+"breath mark",Q754458,articulation,glyph,duration,performer
+fermata,Q830328,,"musical notation",,conductor
+fermata,Q830328,,"musical notation",,composer
+fermata,Q830328,,glyph,,conductor
+fermata,Q830328,,glyph,,composer
+echo,Q182767,,"musical technique",timbre,performer
+echo,Q182767,,"musical technique",loudness,performer
+echo,Q182767,,"aspect of sound",timbre,performer
+echo,Q182767,,"aspect of sound",loudness,performer
+affect,Q159904,"musical expression","musical concept",loudness,composer
+affect,Q159904,"musical expression","musical concept",loudness,conductor
+affect,Q159904,"musical expression","musical concept",loudness,performer
+affect,Q159904,"musical expression","musical concept",timbre,composer
+affect,Q159904,"musical expression","musical concept",timbre,conductor
+affect,Q159904,"musical expression","musical concept",timbre,performer
+espressivo,Q109371111,"musical expression","musical notation",loudness,composer
+espressivo,Q109371111,"musical expression","musical notation",loudness,conductor
+espressivo,Q109371111,"musical expression","musical notation",loudness,editor
+espressivo,Q109371111,"musical expression","musical notation",timbre,composer
+espressivo,Q109371111,"musical expression","musical notation",timbre,conductor
+espressivo,Q109371111,"musical expression","musical notation",timbre,editor
+espressivo,Q109371111,"musical expression","musical concept",loudness,composer
+espressivo,Q109371111,"musical expression","musical concept",loudness,conductor
+espressivo,Q109371111,"musical expression","musical concept",loudness,editor
+espressivo,Q109371111,"musical expression","musical concept",timbre,composer
+espressivo,Q109371111,"musical expression","musical concept",timbre,conductor
+espressivo,Q109371111,"musical expression","musical concept",timbre,editor
+leggiero,Q1812562,"musical expression","musical concept",timbre,composer
+leggiero,Q1812562,"musical expression","musical concept",timbre,conductor
+leggiero,Q1812562,"musical expression","musical concept",timbre,editor
+leggiero,Q1812562,"musical expression","musical concept",loudness,composer
+leggiero,Q1812562,"musical expression","musical concept",loudness,conductor
+leggiero,Q1812562,"musical expression","musical concept",loudness,editor
+leggiero,Q1812562,"musical expression","musical notation",timbre,composer
+leggiero,Q1812562,"musical expression","musical notation",timbre,conductor
+leggiero,Q1812562,"musical expression","musical notation",timbre,editor
+leggiero,Q1812562,"musical expression","musical notation",loudness,composer
+leggiero,Q1812562,"musical expression","musical notation",loudness,conductor
+leggiero,Q1812562,"musical expression","musical notation",loudness,editor
+trill,Q75859,ornament,"musical notation",pitch,performer
+trill,Q75859,ornament,"musical notation",duration,performer
+trill,Q75859,ornament,"musical technique",pitch,performer
+trill,Q75859,ornament,"musical technique",duration,performer
+mordent,Q48811,ornament,"musical notation",duration,composer
+mordent,Q48811,ornament,"musical notation",duration,performer
+mordent,Q48811,ornament,"musical notation",pitch,composer
+mordent,Q48811,ornament,"musical notation",pitch,performer
+mordent,Q48811,ornament,"musical technique",duration,composer
+mordent,Q48811,ornament,"musical technique",duration,performer
+mordent,Q48811,ornament,"musical technique",pitch,composer
+mordent,Q48811,ornament,"musical technique",pitch,performer
+mordent,Q48811,articulation,"musical notation",duration,composer
+mordent,Q48811,articulation,"musical notation",duration,performer
+mordent,Q48811,articulation,"musical notation",pitch,composer
+mordent,Q48811,articulation,"musical notation",pitch,performer
+mordent,Q48811,articulation,"musical technique",duration,composer
+mordent,Q48811,articulation,"musical technique",duration,performer
+mordent,Q48811,articulation,"musical technique",pitch,composer
+mordent,Q48811,articulation,"musical technique",pitch,performer
+turn,Q61542,ornament,"musical notation",pitch,performer
+turn,Q61542,ornament,"musical notation",duration,performer
+turn,Q61542,ornament,"musical technique",pitch,performer
+turn,Q61542,ornament,"musical technique",duration,performer
+appoggiatura,Q1757335,ornament,"musical notation",duration,performer
+appoggiatura,Q1757335,ornament,"musical notation",duration,composer
+appoggiatura,Q1757335,ornament,"musical notation",pitch,performer
+appoggiatura,Q1757335,ornament,"musical notation",pitch,composer
+appoggiatura,Q1757335,ornament,"musical technique",duration,performer
+appoggiatura,Q1757335,ornament,"musical technique",duration,composer
+appoggiatura,Q1757335,ornament,"musical technique",pitch,performer
+appoggiatura,Q1757335,ornament,"musical technique",pitch,composer
+"double appoggiatura",Q123058117,ornament,"musical notation",pitch,performer
+"double appoggiatura",Q123058117,ornament,"musical notation",pitch,composer
+"double appoggiatura",Q123058117,ornament,"musical notation",duration,performer
+"double appoggiatura",Q123058117,ornament,"musical notation",duration,composer
+"double appoggiatura",Q123058117,ornament,"musical technique",pitch,performer
+"double appoggiatura",Q123058117,ornament,"musical technique",pitch,composer
+"double appoggiatura",Q123058117,ornament,"musical technique",duration,performer
+"double appoggiatura",Q123058117,ornament,"musical technique",duration,composer
+"double appoggiatura",Q123058117,appoggiatura,"musical notation",pitch,performer
+"double appoggiatura",Q123058117,appoggiatura,"musical notation",pitch,composer
+"double appoggiatura",Q123058117,appoggiatura,"musical notation",duration,performer
+"double appoggiatura",Q123058117,appoggiatura,"musical notation",duration,composer
+"double appoggiatura",Q123058117,appoggiatura,"musical technique",pitch,performer
+"double appoggiatura",Q123058117,appoggiatura,"musical technique",pitch,composer
+"double appoggiatura",Q123058117,appoggiatura,"musical technique",duration,performer
+"double appoggiatura",Q123058117,appoggiatura,"musical technique",duration,composer
+glissando,Q471744,ornament,"musical notation",pitch,performer
+glissando,Q471744,ornament,"musical notation",timbre,performer
+glissando,Q471744,ornament,"musical technique",pitch,performer
+glissando,Q471744,ornament,"musical technique",timbre,performer
+"alternative melody",,variation,"musical concept",pitch,conductor
+"alternative melody",,variation,"musical concept",pitch,performer
+"alternative melody",,variation,"musical concept",duration,conductor
+"alternative melody",,variation,"musical concept",duration,performer
+passaggio,,ornament,"musical improvisation",duration,performer
+passaggio,,ornament,"musical improvisation",pitch,performer
+passaggio,,ornament,"musical technique",duration,performer
+passaggio,,ornament,"musical technique",pitch,performer
+"alternative lyrics",,variation,,timbre,editor
+"alternative lyrics",,variation,,timbre,performer
+"alternative lyrics",,variation,,timbre,librettist
+cut,,variation,"musical notation",duration,conductor
+cut,,variation,"musical notation",duration,editor
+transliteration,Q134550,translation,,timbre,performer
+transliteration,Q134550,translation,,timbre,librettist
+"add measure",,variation,"musical concept",duration,performer
+"add measure",,variation,"musical concept",duration,conductor
+"instrument substitution",,instrumentation,"musical concept",timbre,conductor
+"instrument substitution",,instrumentation,"musical concept",timbre,performer
+"instrument substitution",,instrumentation,"musical technique",timbre,conductor
+"instrument substitution",,instrumentation,"musical technique",timbre,performer
+tacet,Q1567967,instrumentation,"musical concept",loudness,conductor
+tacet,Q1567967,instrumentation,"musical concept",loudness,editor
+tacet,Q1567967,instrumentation,"musical concept",duration,conductor
+tacet,Q1567967,instrumentation,"musical concept",duration,editor
+fortissimo,Q3748790,forte,"musical notation",loudness,composer
+fortissimo,Q3748790,forte,"musical notation",loudness,conductor
+fortissimo,Q3748790,forte,"musical notation",loudness,editor
+pianissimo,Q953127,piano,"musical notation",loudness,composer
+pianissimo,Q953127,piano,"musical notation",loudness,conductor
+pianissimo,Q953127,piano,"musical notation",loudness,editor
+sforzando,Q1993030,dynamic,"musical notation",loudness,composer
+sforzando,Q1993030,dynamic,"musical notation",loudness,conductor
+sforzando,Q1993030,dynamic,"musical notation",loudness,editor
+sforzando,Q1993030,dynamic,"musical notation",timbre,composer
+sforzando,Q1993030,dynamic,"musical notation",timbre,conductor
+sforzando,Q1993030,dynamic,"musical notation",timbre,editor
+sforzando,Q1993030,"musical expression","musical notation",loudness,composer
+sforzando,Q1993030,"musical expression","musical notation",loudness,conductor
+sforzando,Q1993030,"musical expression","musical notation",loudness,editor
+sforzando,Q1993030,"musical expression","musical notation",timbre,composer
+sforzando,Q1993030,"musical expression","musical notation",timbre,conductor
+sforzando,Q1993030,"musical expression","musical notation",timbre,editor
+dynamic,Q113558,,"aspect of sound",loudness,composer
+dynamic,Q113558,,"aspect of sound",loudness,conductor
+dynamic,Q113558,,"aspect of sound",loudness,editor
+crescendo,Q2347888,dynamic,"musical notation",loudness,composer
+crescendo,Q2347888,dynamic,"musical notation",loudness,conductor
+crescendo,Q2347888,dynamic,"musical notation",loudness,editor
+crescendo,Q2347888,dynamic,"musical notation",loudness,performer
+crescendo,Q2347888,dynamic,glyph,loudness,composer
+crescendo,Q2347888,dynamic,glyph,loudness,conductor
+crescendo,Q2347888,dynamic,glyph,loudness,editor
+crescendo,Q2347888,dynamic,glyph,loudness,performer
+decrescendo,Q1994559,dynamic,"musical notation",loudness,composer
+decrescendo,Q1994559,dynamic,"musical notation",loudness,conductor
+decrescendo,Q1994559,dynamic,"musical notation",loudness,editor
+decrescendo,Q1994559,dynamic,"musical notation",loudness,performer
+decrescendo,Q1994559,dynamic,glyph,loudness,composer
+decrescendo,Q1994559,dynamic,glyph,loudness,conductor
+decrescendo,Q1994559,dynamic,glyph,loudness,editor
+decrescendo,Q1994559,dynamic,glyph,loudness,performer
+diminuendo,Q1994559,dynamic,"musical notation",loudness,composer
+diminuendo,Q1994559,dynamic,"musical notation",loudness,conductor
+diminuendo,Q1994559,dynamic,"musical notation",loudness,editor
+diminuendo,Q1994559,dynamic,"musical notation",loudness,performer
+diminuendo,Q1994559,dynamic,glyph,loudness,composer
+diminuendo,Q1994559,dynamic,glyph,loudness,conductor
+diminuendo,Q1994559,dynamic,glyph,loudness,editor
+diminuendo,Q1994559,dynamic,glyph,loudness,performer
+accelerando,Q338639,tempo,"musical notation",duration,composer
+accelerando,Q338639,tempo,"musical notation",duration,conductor
+accelerando,Q338639,tempo,"musical notation",duration,editor
+adagio,Q482153,tempo,"musical notation",duration,composer
+adagio,Q482153,tempo,"musical notation",duration,conductor
+adagio,Q482153,tempo,"musical notation",duration,editor
+allegro,Q2081524,tempo,"musical notation",duration,composer
+allegro,Q2081524,tempo,"musical notation",duration,conductor
+allegro,Q2081524,tempo,"musical notation",duration,editor
+andante,Q2499193,tempo,"musical notation",duration,composer
+andante,Q2499193,tempo,"musical notation",duration,conductor
+andante,Q2499193,tempo,"musical notation",duration,editor
+largo,Q1805930,tempo,"musical notation",duration,composer
+largo,Q1805930,tempo,"musical notation",duration,conductor
+largo,Q1805930,tempo,"musical notation",duration,editor
+"metronome mark",Q124518125,tempo,"musical notation",duration,composer
+"metronome mark",Q124518125,tempo,"musical notation",duration,conductor
+"metronome mark",Q124518125,tempo,"musical notation",duration,editor
+"metronome mark",Q124518125,tempo,"musical notation",duration,performer
+"metronome mark",Q124518125,chronometry,"musical notation",duration,composer
+"metronome mark",Q124518125,chronometry,"musical notation",duration,conductor
+"metronome mark",Q124518125,chronometry,"musical notation",duration,editor
+"metronome mark",Q124518125,chronometry,"musical notation",duration,performer
+presto,Q2096748,tempo,"musical notation",duration,composer
+presto,Q2096748,tempo,"musical notation",duration,conductor
+presto,Q2096748,tempo,"musical notation",duration,editor
+rallentando,Q577213,tempo,"musical notation",duration,composer
+rallentando,Q577213,tempo,"musical notation",duration,conductor
+rallentando,Q577213,tempo,"musical notation",duration,editor
+rallentando,Q577213,tempo,"musical notation",duration,performer
+ritardando,Q1671019,tempo,"musical notation",duration,composer
+ritardando,Q1671019,tempo,"musical notation",duration,conductor
+ritardando,Q1671019,tempo,"musical notation",duration,editor
+ritardando,Q1671019,tempo,"musical notation",duration,performer
+ritenuto,Q1646162,tempo,"musical notation",duration,composer
+ritenuto,Q1646162,tempo,"musical notation",duration,conductor
+ritenuto,Q1646162,tempo,"musical notation",duration,editor
+ritenuto,Q1646162,tempo,"musical notation",duration,performer
+stringendo,Q2735115,tempo,"musical notation",duration,composer
+stringendo,Q2735115,tempo,"musical notation",duration,conductor
+stringendo,Q2735115,tempo,"musical notation",duration,editor
+"ma non troppo",Q2517964,tempo,"musical notation",,composer
+"ma non troppo",Q2517964,tempo,"musical notation",,conductor
+"ma non troppo",Q2517964,tempo,"musical notation",,editor
+"numeric time signature",,tempo,"musical notation",duration,composer
+"numeric time signature",,tempo,"musical notation",duration,conductor
+"numeric time signature",,tempo,"musical notation",duration,editor
+"tactus subdivision",,tempo,"musical concept",duration,conductor
+"tempo primo",Q2158106,tempo,"musical notation",duration,composer
+"tempo primo",Q2158106,tempo,"musical notation",duration,conductor
+tenuto,Q1542153,tempo,"musical notation",duration,performer
+tenuto,Q1542153,tempo,"musical notation",duration,composer
+tenuto,Q1542153,tempo,"musical notation",duration,conductor
+tenuto,Q1542153,tempo,"musical notation",loudness,performer
+tenuto,Q1542153,tempo,"musical notation",loudness,composer
+tenuto,Q1542153,tempo,"musical notation",loudness,conductor
+tenuto,Q1542153,tempo,"musical technique",duration,performer
+tenuto,Q1542153,tempo,"musical technique",duration,composer
+tenuto,Q1542153,tempo,"musical technique",duration,conductor
+tenuto,Q1542153,tempo,"musical technique",loudness,performer
+tenuto,Q1542153,tempo,"musical technique",loudness,composer
+tenuto,Q1542153,tempo,"musical technique",loudness,conductor
+tenuto,Q1542153,ornament,"musical notation",duration,performer
+tenuto,Q1542153,ornament,"musical notation",duration,composer
+tenuto,Q1542153,ornament,"musical notation",duration,conductor
+tenuto,Q1542153,ornament,"musical notation",loudness,performer
+tenuto,Q1542153,ornament,"musical notation",loudness,composer
+tenuto,Q1542153,ornament,"musical notation",loudness,conductor
+tenuto,Q1542153,ornament,"musical technique",duration,performer
+tenuto,Q1542153,ornament,"musical technique",duration,composer
+tenuto,Q1542153,ornament,"musical technique",duration,conductor
+tenuto,Q1542153,ornament,"musical technique",loudness,performer
+tenuto,Q1542153,ornament,"musical technique",loudness,composer
+tenuto,Q1542153,ornament,"musical technique",loudness,conductor
+arco,,"musical instrument part","musical notation",timbre,performer
+arco,,"musical instrument part","musical notation",timbre,conductor
+arco,,"musical instrument part","musical notation",loudness,performer
+arco,,"musical instrument part","musical notation",loudness,conductor
+arco,,"musical instrument part","musical technique",timbre,performer
+arco,,"musical instrument part","musical technique",timbre,conductor
+arco,,"musical instrument part","musical technique",loudness,performer
+arco,,"musical instrument part","musical technique",loudness,conductor
+arco,,articulation,"musical notation",timbre,performer
+arco,,articulation,"musical notation",timbre,conductor
+arco,,articulation,"musical notation",loudness,performer
+arco,,articulation,"musical notation",loudness,conductor
+arco,,articulation,"musical technique",timbre,performer
+arco,,articulation,"musical technique",timbre,conductor
+arco,,articulation,"musical technique",loudness,performer
+arco,,articulation,"musical technique",loudness,conductor
+pizzicato,Q213460,articulation,"musical notation",timbre,performer
+pizzicato,Q213460,articulation,"musical notation",timbre,conductor
+pizzicato,Q213460,articulation,"musical notation",loudness,performer
+pizzicato,Q213460,articulation,"musical notation",loudness,conductor
+pizzicato,Q213460,articulation,"musical technique",timbre,performer
+pizzicato,Q213460,articulation,"musical technique",timbre,conductor
+pizzicato,Q213460,articulation,"musical technique",loudness,performer
+pizzicato,Q213460,articulation,"musical technique",loudness,conductor
+"string harmonic",Q576006,,"musical notation",timbre,performer
+"string harmonic",Q576006,,"musical notation",timbre,composer
+"string harmonic",Q576006,,"musical technique",timbre,performer
+"string harmonic",Q576006,,"musical technique",timbre,composer
+bowing,Q9338812,"musical instrument part","musical notation",timbre,performer
+bowing,Q9338812,"musical instrument part","musical notation",timbre,conductor
+bowing,Q9338812,"musical instrument part","musical technique",timbre,performer
+bowing,Q9338812,"musical instrument part","musical technique",timbre,conductor
+"engage pedal",Q124518660,"musical instrument part","musical notation",timbre,performer
+"engage pedal",Q124518660,"musical instrument part","musical notation",timbre,editor
+"engage pedal",Q124518660,"musical instrument part","musical notation",timbre,composer
+"engage pedal",Q124518660,"musical instrument part","musical notation",loudness,performer
+"engage pedal",Q124518660,"musical instrument part","musical notation",loudness,editor
+"engage pedal",Q124518660,"musical instrument part","musical notation",loudness,composer
+"una corda",,"musical instrument part","musical notation",timbre,performer
+"una corda",,"musical instrument part","musical notation",timbre,composer
+"una corda",,"musical instrument part","musical notation",timbre,editor
+"una corda",,"musical instrument part","musical notation",loudness,performer
+"una corda",,"musical instrument part","musical notation",loudness,composer
+"una corda",,"musical instrument part","musical notation",loudness,editor
+"tre le corde",,"musical instrument part","musical notation",timbre,composer
+"tre le corde",,"musical instrument part","musical notation",timbre,editor
+"tre le corde",,"musical instrument part","musical notation",timbre,performer
+"tre le corde",,"musical instrument part","musical notation",loudness,composer
+"tre le corde",,"musical instrument part","musical notation",loudness,editor
+"tre le corde",,"musical instrument part","musical notation",loudness,performer
+"release pedal",Q124518670,"musical instrument part","musical notation",loudness,performer
+"release pedal",Q124518670,"musical instrument part","musical notation",loudness,editor
+"release pedal",Q124518670,"musical instrument part","musical notation",loudness,composer
+"release pedal",Q124518670,"musical instrument part","musical notation",timbre,performer
+"release pedal",Q124518670,"musical instrument part","musical notation",timbre,editor
+"release pedal",Q124518670,"musical instrument part","musical notation",timbre,composer
+portato,Q1930998,articulation,"musical notation",duration,conductor
+portato,Q1930998,articulation,"musical notation",duration,composer
+portato,Q1930998,articulation,"musical notation",duration,performer
+portato,Q1930998,articulation,"musical notation",timbre,conductor
+portato,Q1930998,articulation,"musical notation",timbre,composer
+portato,Q1930998,articulation,"musical notation",timbre,performer
+portato,Q1930998,articulation,"musical technique",duration,conductor
+portato,Q1930998,articulation,"musical technique",duration,composer
+portato,Q1930998,articulation,"musical technique",duration,performer
+portato,Q1930998,articulation,"musical technique",timbre,conductor
+portato,Q1930998,articulation,"musical technique",timbre,composer
+portato,Q1930998,articulation,"musical technique",timbre,performer
+portato,Q1930998,"musical phrasing","musical notation",duration,conductor
+portato,Q1930998,"musical phrasing","musical notation",duration,composer
+portato,Q1930998,"musical phrasing","musical notation",duration,performer
+portato,Q1930998,"musical phrasing","musical notation",timbre,conductor
+portato,Q1930998,"musical phrasing","musical notation",timbre,composer
+portato,Q1930998,"musical phrasing","musical notation",timbre,performer
+portato,Q1930998,"musical phrasing","musical technique",duration,conductor
+portato,Q1930998,"musical phrasing","musical technique",duration,composer
+portato,Q1930998,"musical phrasing","musical technique",duration,performer
+portato,Q1930998,"musical phrasing","musical technique",timbre,conductor
+portato,Q1930998,"musical phrasing","musical technique",timbre,composer
+portato,Q1930998,"musical phrasing","musical technique",timbre,performer
+portato,Q1930998,"musical expression","musical notation",duration,conductor
+portato,Q1930998,"musical expression","musical notation",duration,composer
+portato,Q1930998,"musical expression","musical notation",duration,performer
+portato,Q1930998,"musical expression","musical notation",timbre,conductor
+portato,Q1930998,"musical expression","musical notation",timbre,composer
+portato,Q1930998,"musical expression","musical notation",timbre,performer
+portato,Q1930998,"musical expression","musical technique",duration,conductor
+portato,Q1930998,"musical expression","musical technique",duration,composer
+portato,Q1930998,"musical expression","musical technique",duration,performer
+portato,Q1930998,"musical expression","musical technique",timbre,conductor
+portato,Q1930998,"musical expression","musical technique",timbre,composer
+portato,Q1930998,"musical expression","musical technique",timbre,performer
+signature,Q188675,,,,composer
+signature,Q188675,,,,conductor
+signature,Q188675,,,,performer
+slur,Q863575,articulation,"musical notation",duration,conductor
+slur,Q863575,articulation,"musical notation",duration,performer
+slur,Q863575,articulation,"musical notation",duration,editor
+slur,Q863575,articulation,"musical notation",timbre,conductor
+slur,Q863575,articulation,"musical notation",timbre,performer
+slur,Q863575,articulation,"musical notation",timbre,editor
+citation,Q1713,,,,editor
+citation,Q1713,,,,"scholar (owner)"
+"ink stamp",Q57305415,,impression,,"scholar (owner)"
+"ad libitum",Q310735,ornament,"musical notation",pitch,performer
+"ad libitum",Q310735,ornament,"musical notation",pitch,composer
+"ad libitum",Q310735,ornament,"musical notation",duration,performer
+"ad libitum",Q310735,ornament,"musical notation",duration,composer
+"ad libitum",Q310735,ornament,"musical concept",pitch,performer
+"ad libitum",Q310735,ornament,"musical concept",pitch,composer
+"ad libitum",Q310735,ornament,"musical concept",duration,performer
+"ad libitum",Q310735,ornament,"musical concept",duration,composer
+"ad libitum",Q310735,ornament,"musical improvisation",pitch,performer
+"ad libitum",Q310735,ornament,"musical improvisation",pitch,composer
+"ad libitum",Q310735,ornament,"musical improvisation",duration,performer
+"ad libitum",Q310735,ornament,"musical improvisation",duration,composer
+"musica ficta",Q1852714,accidental,"musical notation",pitch,editor
+"musica ficta",Q1852714,accidental,"musical notation",pitch,"scholar (owner)"
+"musica ficta",Q1852714,accidental,"musical concept",pitch,editor
+"musica ficta",Q1852714,accidental,"musical concept",pitch,"scholar (owner)"
+"natural sign",Q747691,accidental,"musical notation",pitch,composer
+"natural sign",Q747691,accidental,"musical notation",pitch,performer
+"natural sign",Q747691,accidental,"musical notation",pitch,editor
+clef,Q181040,,"musical notation",pitch,editor
+clef,Q181040,,"musical notation",pitch,performer
+piano,Q2707020,dynamic,"musical notation",loudness,composer
+piano,Q2707020,dynamic,"musical notation",loudness,conductor
+piano,Q2707020,dynamic,"musical notation",loudness,editor
+mezzopiano,Q2147562,dynamic,"musical notation",loudness,composer
+mezzopiano,Q2147562,dynamic,"musical notation",loudness,conductor
+mezzopiano,Q2147562,dynamic,"musical notation",loudness,editor
+mezzopiano,Q2147562,piano,"musical notation",loudness,composer
+mezzopiano,Q2147562,piano,"musical notation",loudness,conductor
+mezzopiano,Q2147562,piano,"musical notation",loudness,editor
+mezzoforte,Q7258512,dynamic,"musical notation",loudness,composer
+mezzoforte,Q7258512,dynamic,"musical notation",loudness,conductor
+mezzoforte,Q7258512,dynamic,"musical notation",loudness,editor
+mezzoforte,Q7258512,forte,"musical notation",loudness,composer
+mezzoforte,Q7258512,forte,"musical notation",loudness,conductor
+mezzoforte,Q7258512,forte,"musical notation",loudness,editor
+fortepiano,Q2192323,dynamic,"musical notation",loudness,composer
+fortepiano,Q2192323,dynamic,"musical notation",loudness,conductor
+fortepiano,Q2192323,dynamic,"musical notation",loudness,editor
+fortepiano,Q2192323,forte,"musical notation",loudness,composer
+fortepiano,Q2192323,forte,"musical notation",loudness,conductor
+fortepiano,Q2192323,forte,"musical notation",loudness,editor
+fortepiano,Q2192323,piano,"musical notation",loudness,composer
+fortepiano,Q2192323,piano,"musical notation",loudness,conductor
+fortepiano,Q2192323,piano,"musical notation",loudness,editor
+forte,Q1191094,dynamic,"musical notation",loudness,composer
+forte,Q1191094,dynamic,"musical notation",loudness,conductor
+forte,Q1191094,dynamic,"musical notation",loudness,editor
+tempo,Q189214,,"musical concept",duration,composer
+tempo,Q189214,,"musical concept",duration,conductor
+tempo,Q189214,,"musical concept",duration,editor
+tempo,Q189214,,"sound concept",duration,composer
+tempo,Q189214,,"sound concept",duration,conductor
+tempo,Q189214,,"sound concept",duration,editor
+loudness,Q622324,,"sound concept",loudness,composer
+loudness,Q622324,,"sound concept",loudness,conductor
+loudness,Q622324,,"sound concept",loudness,editor
+loudness,Q622324,,"sound concept",loudness,performer
+loudness,Q622324,,"musical concept",loudness,composer
+loudness,Q622324,,"musical concept",loudness,conductor
+loudness,Q622324,,"musical concept",loudness,editor
+loudness,Q622324,,"musical concept",loudness,performer
+timbre,Q176501,,"musical concept",timbre,conductor
+timbre,Q176501,,"musical concept",timbre,composer
+timbre,Q176501,,"musical concept",timbre,performer
+timbre,Q176501,,"sound concept",timbre,conductor
+timbre,Q176501,,"sound concept",timbre,composer
+timbre,Q176501,,"sound concept",timbre,performer
+articulation,Q372923,,"musical notation",timbre,performer
+articulation,Q372923,,"musical notation",timbre,conductor
+articulation,Q372923,,"musical notation",duration,performer
+articulation,Q372923,,"musical notation",duration,conductor
+articulation,Q372923,,"musical concept",timbre,performer
+articulation,Q372923,,"musical concept",timbre,conductor
+articulation,Q372923,,"musical concept",duration,performer
+articulation,Q372923,,"musical concept",duration,conductor
+accent,Q424494,articulation,"musical notation",duration,composer
+accent,Q424494,articulation,"musical notation",duration,conductor
+accent,Q424494,articulation,"musical notation",duration,editor
+accent,Q424494,articulation,"musical notation",duration,performer
+accent,Q424494,articulation,"musical notation",timbre,composer
+accent,Q424494,articulation,"musical notation",timbre,conductor
+accent,Q424494,articulation,"musical notation",timbre,editor
+accent,Q424494,articulation,"musical notation",timbre,performer
+staccato,Q466944,articulation,"musical notation",timbre,composer
+staccato,Q466944,articulation,"musical notation",timbre,conductor
+staccato,Q466944,articulation,"musical notation",timbre,performer
+staccato,Q466944,articulation,"musical notation",duration,composer
+staccato,Q466944,articulation,"musical notation",duration,conductor
+staccato,Q466944,articulation,"musical notation",duration,performer
+staccatissimo,Q671521,articulation,"musical notation",duration,conductor
+staccatissimo,Q671521,articulation,"musical notation",duration,composer
+staccatissimo,Q671521,articulation,"musical notation",duration,performer
+staccatissimo,Q671521,articulation,"musical notation",timbre,conductor
+staccatissimo,Q671521,articulation,"musical notation",timbre,composer
+staccatissimo,Q671521,articulation,"musical notation",timbre,performer
+staccatissimo,Q671521,staccato,"musical notation",duration,conductor
+staccatissimo,Q671521,staccato,"musical notation",duration,composer
+staccatissimo,Q671521,staccato,"musical notation",duration,performer
+staccatissimo,Q671521,staccato,"musical notation",timbre,conductor
+staccatissimo,Q671521,staccato,"musical notation",timbre,composer
+staccatissimo,Q671521,staccato,"musical notation",timbre,performer
+legato,Q649116,articulation,"musical notation",timbre,performer
+legato,Q649116,articulation,"musical notation",timbre,editor
+legato,Q649116,articulation,"musical notation",timbre,conductor
+legato,Q649116,articulation,"musical notation",duration,performer
+legato,Q649116,articulation,"musical notation",duration,editor
+legato,Q649116,articulation,"musical notation",duration,conductor
+legato,Q649116,articulation,glyph,timbre,performer
+legato,Q649116,articulation,glyph,timbre,editor
+legato,Q649116,articulation,glyph,timbre,conductor
+legato,Q649116,articulation,glyph,duration,performer
+legato,Q649116,articulation,glyph,duration,editor
+legato,Q649116,articulation,glyph,duration,conductor
+legato,Q649116,"musical phrasing","musical notation",timbre,performer
+legato,Q649116,"musical phrasing","musical notation",timbre,editor
+legato,Q649116,"musical phrasing","musical notation",timbre,conductor
+legato,Q649116,"musical phrasing","musical notation",duration,performer
+legato,Q649116,"musical phrasing","musical notation",duration,editor
+legato,Q649116,"musical phrasing","musical notation",duration,conductor
+legato,Q649116,"musical phrasing",glyph,timbre,performer
+legato,Q649116,"musical phrasing",glyph,timbre,editor
+legato,Q649116,"musical phrasing",glyph,timbre,conductor
+legato,Q649116,"musical phrasing",glyph,duration,performer
+legato,Q649116,"musical phrasing",glyph,duration,editor
+legato,Q649116,"musical phrasing",glyph,duration,conductor
+"flat sign",Q7001368,accidental,"musical notation",pitch,composer
+"flat sign",Q7001368,accidental,"musical notation",pitch,editor
+"flat sign",Q7001368,accidental,"musical notation",pitch,performer
+"sharp sign",Q2542618,accidental,"musical notation",pitch,composer
+"sharp sign",Q2542618,accidental,"musical notation",pitch,performer
+"sharp sign",Q2542618,accidental,"musical notation",pitch,editor
+"realization of figured bass",Q96401348,"figured bass","music theory",pitch,performer
+"realization of figured bass",Q96401348,"figured bass","music theory",pitch,editor
+"realization of figured bass",Q96401348,"figured bass","music theory",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,"figured bass","music theory",duration,performer
+"realization of figured bass",Q96401348,"figured bass","music theory",duration,editor
+"realization of figured bass",Q96401348,"figured bass","music theory",duration,"scholar (owner)"
+"realization of figured bass",Q96401348,"figured bass","musical technique",pitch,performer
+"realization of figured bass",Q96401348,"figured bass","musical technique",pitch,editor
+"realization of figured bass",Q96401348,"figured bass","musical technique",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,"figured bass","musical technique",duration,performer
+"realization of figured bass",Q96401348,"figured bass","musical technique",duration,editor
+"realization of figured bass",Q96401348,"figured bass","musical technique",duration,"scholar (owner)"
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",pitch,performer
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",pitch,editor
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",duration,performer
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",duration,editor
+"realization of figured bass",Q96401348,"figured bass","musical improvisation",duration,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"music theory",pitch,performer
+"realization of figured bass",Q96401348,instrumentation,"music theory",pitch,editor
+"realization of figured bass",Q96401348,instrumentation,"music theory",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"music theory",duration,performer
+"realization of figured bass",Q96401348,instrumentation,"music theory",duration,editor
+"realization of figured bass",Q96401348,instrumentation,"music theory",duration,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"musical technique",pitch,performer
+"realization of figured bass",Q96401348,instrumentation,"musical technique",pitch,editor
+"realization of figured bass",Q96401348,instrumentation,"musical technique",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"musical technique",duration,performer
+"realization of figured bass",Q96401348,instrumentation,"musical technique",duration,editor
+"realization of figured bass",Q96401348,instrumentation,"musical technique",duration,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",pitch,performer
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",pitch,editor
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",pitch,"scholar (owner)"
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",duration,performer
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",duration,editor
+"realization of figured bass",Q96401348,instrumentation,"musical improvisation",duration,"scholar (owner)"
+"instrument reconstruction",,instrumentation,"music theory",pitch,"scholar (owner)"
+"instrument reconstruction",,instrumentation,"music theory",pitch,editor
+"instrument reconstruction",,instrumentation,"music theory",duration,"scholar (owner)"
+"instrument reconstruction",,instrumentation,"music theory",duration,editor
+"instrument reconstruction",,instrumentation,"music theory",loudness,"scholar (owner)"
+"instrument reconstruction",,instrumentation,"music theory",loudness,editor
+"instrument reconstruction",,instrumentation,"music theory",timbre,"scholar (owner)"
+"instrument reconstruction",,instrumentation,"music theory",timbre,editor
+Divisi,Q1230694,instrumentation,"musical concept",timbre,conductor
+Divisi,Q1230694,instrumentation,"musical concept",timbre,composer
+Divisi,Q1230694,instrumentation,"musical notation",timbre,conductor
+Divisi,Q1230694,instrumentation,"musical notation",timbre,composer
+instrumentation,Q617028,,"musical concept",timbre,composer
+instrumentation,Q617028,,"musical concept",timbre,editor
+instrumentation,Q617028,,"musical concept",timbre,conductor
+variation,Q16920157,ornament,"musical technique",duration,performer
+variation,Q16920157,ornament,"musical technique",duration,conductor
+variation,Q16920157,ornament,"musical notation",duration,performer
+variation,Q16920157,ornament,"musical notation",duration,conductor
+"voice leading",Q2027877,,"musical-structural concept",pitch,"scholar (owner)"
+"voice leading",Q2027877,,"musical-structural concept",pitch,editor
+"voice leading",Q2027877,,"music theory",pitch,"scholar (owner)"
+"voice leading",Q2027877,,"music theory",pitch,editor
+date,Q186408,,,,composer
+date,Q186408,,,,"scholar (owner)"
+transposition,Q815323,,"musical concept",pitch,conductor
+transposition,Q815323,,"musical concept",pitch,editor
+transposition,Q815323,,"musical concept",pitch,performer
+"colla parte",Q126950983,"musical technique","musical technique",pitch,editor
+"colla parte",Q126950983,"musical technique","musical technique",pitch,performer
+"colla parte",Q126950983,"musical technique","musical notation",pitch,editor
+"colla parte",Q126950983,"musical technique","musical notation",pitch,performer
+cadenza,Q1069389,ornament,"musical improvisation",pitch,performer
+cadenza,Q1069389,ornament,"musical improvisation",pitch,editor
+cadenza,Q1069389,ornament,"musical improvisation",duration,performer
+cadenza,Q1069389,ornament,"musical improvisation",duration,editor
+cadenza,Q1069389,ornament,"musical notation",pitch,performer
+cadenza,Q1069389,ornament,"musical notation",pitch,editor
+cadenza,Q1069389,ornament,"musical notation",duration,performer
+cadenza,Q1069389,ornament,"musical notation",duration,editor
+tremolo,Q123171932,ornament,"musical notation",pitch,composer
+tremolo,Q123171932,ornament,"musical notation",pitch,performer
+tremolo,Q123171932,ornament,"musical notation",duration,composer
+tremolo,Q123171932,ornament,"musical notation",duration,performer
+tremolo,Q123171932,ornament,"musical technique",pitch,composer
+tremolo,Q123171932,ornament,"musical technique",pitch,performer
+tremolo,Q123171932,ornament,"musical technique",duration,composer
+tremolo,Q123171932,ornament,"musical technique",duration,performer
+ornament,Q739589,"musical technique","musical technique",pitch,performer
+ornament,Q739589,"musical technique","musical technique",pitch,editor
+ornament,Q739589,"musical technique","musical technique",duration,performer
+ornament,Q739589,"musical technique","musical technique",duration,editor
+ornament,Q739589,"musical technique","musical notation",pitch,performer
+ornament,Q739589,"musical technique","musical notation",pitch,editor
+ornament,Q739589,"musical technique","musical notation",duration,performer
+ornament,Q739589,"musical technique","musical notation",duration,editor
+"messa di voce",Q1537440,"musical technique","musical technique",loudness,performer
+"messa di voce",Q1537440,"musical technique","musical technique",loudness,conductor
+"messa di voce",Q1537440,"musical technique","musical notation",loudness,performer
+"messa di voce",Q1537440,"musical technique","musical notation",loudness,conductor
+vibrato,Q377435,"musical technique","musical technique",timbre,performer
+vibrato,Q377435,"musical technique","musical technique",pitch,performer
+vibrato,Q377435,"musical technique","musical notation",timbre,performer
+vibrato,Q377435,"musical technique","musical notation",pitch,performer
+marcato,Q2524785,articulation,"musical notation",duration,conductor
+marcato,Q2524785,articulation,"musical notation",duration,composer
+marcato,Q2524785,articulation,"musical notation",duration,performer
+marcato,Q2524785,articulation,"musical notation",timbre,conductor
+marcato,Q2524785,articulation,"musical notation",timbre,composer
+marcato,Q2524785,articulation,"musical notation",timbre,performer
+"measure subdivision",,tempo,"musical-structural concept",duration,conductor
+"measure subdivision",,tempo,"musical-structural concept",duration,performer
+"measure subdivision",,tempo,glyph,duration,conductor
+"measure subdivision",,tempo,glyph,duration,performer
+"octave sign",Q126950966,,"musical notation",pitch,performer
+"octave sign",Q126950966,,"musical notation",pitch,editor
+"octave sign",Q126950966,,"musical notation",pitch,composer
+accidental,Q816335,,"musical notation",pitch,editor
+"repeat sign",Q17137002,variation,"musical notation",duration,composer
+"repeat sign",Q17137002,variation,"musical notation",duration,editor
+"musical phrasing",Q15130689,,"musical concept",timbre,conductor
+"musical phrasing",Q15130689,,"musical concept",timbre,performer
+"musical phrasing",Q15130689,,"musical concept",loudness,conductor
+"musical phrasing",Q15130689,,"musical concept",loudness,performer
+"musical phrasing",Q15130689,,"musical concept",duration,conductor
+"musical phrasing",Q15130689,,"musical concept",duration,performer
+"string number (sul X)",Q326426,"musical instrument part","musical notation",timbre,performer
+cantabile,Q913079,"musical expression","musical notation",timbre,composer
+cantabile,Q913079,"musical expression","musical notation",timbre,editor
+cantabile,Q913079,"musical phrasing","musical notation",timbre,composer
+cantabile,Q913079,"musical phrasing","musical notation",timbre,editor
+"musical expression",Q6942545,,"musical notation",timbre,composer
+"musical expression",Q6942545,,"musical notation",timbre,conductor
+"musical expression",Q6942545,,"musical notation",timbre,performer
+"musical expression",Q6942545,,"musical notation",timbre,editor
+"musical expression",Q6942545,,"musical notation",loudness,composer
+"musical expression",Q6942545,,"musical notation",loudness,conductor
+"musical expression",Q6942545,,"musical notation",loudness,performer
+"musical expression",Q6942545,,"musical notation",loudness,editor
+energico,Q1939445,"musical expression","musical notation",loudness,composer
+energico,Q1939445,"musical expression","musical notation",loudness,conductor
+energico,Q1939445,"musical expression","musical notation",loudness,editor
+energico,Q1939445,"musical expression","musical notation",timbre,composer
+energico,Q1939445,"musical expression","musical notation",timbre,conductor
+energico,Q1939445,"musical expression","musical notation",timbre,editor
+dolce,Q109520245,"musical expression","musical concept",loudness,composer
+dolce,Q109520245,"musical expression","musical concept",loudness,conductor
+dolce,Q109520245,"musical expression","musical concept",timbre,composer
+dolce,Q109520245,"musical expression","musical concept",timbre,conductor
+dolce,Q109520245,"musical expression","musical notation",loudness,composer
+dolce,Q109520245,"musical expression","musical notation",loudness,conductor
+dolce,Q109520245,"musical expression","musical notation",timbre,composer
+dolce,Q109520245,"musical expression","musical notation",timbre,conductor
+"organ stop",Q1446290,timbre,"musical notation",timbre,performer
+"organ stop",Q1446290,timbre,"musical notation",pitch,performer
+"organ stop",Q1446290,timbre,"musical notation",loudness,performer
+"organ stop",Q1446290,"musical instrument part","musical notation",timbre,performer
+"organ stop",Q1446290,"musical instrument part","musical notation",pitch,performer
+"organ stop",Q1446290,"musical instrument part","musical notation",loudness,performer
+"tempo rubato",Q1063336,tempo,"musical notation",duration,performer
+"tempo rubato",Q1063336,tempo,"musical notation",duration,composer
+"tempo rubato",Q1063336,tempo,"musical notation",duration,conductor
+"tempo rubato",Q1063336,tempo,"musical notation",duration,editor
+portamento,Q263934,"musical phrasing","musical technique",pitch,performer
+portamento,Q263934,"musical phrasing","musical notation",pitch,performer
+"da capo",Q1138573,"repeat sign","musical notation",duration,composer
+"da capo",Q1138573,"repeat sign","musical notation",duration,editor
+"da capo",Q1138573,"repeat sign","musical notation",duration,performer
+"da capo",Q1138573,variation,"musical notation",duration,composer
+"da capo",Q1138573,variation,"musical notation",duration,editor
+"da capo",Q1138573,variation,"musical notation",duration,performer
+"sotto voce",Q7564035,dynamic,"musical technique",timbre,conductor
+"sotto voce",Q7564035,dynamic,"musical technique",timbre,composer
+"sotto voce",Q7564035,dynamic,"musical technique",loudness,conductor
+"sotto voce",Q7564035,dynamic,"musical technique",loudness,composer
+"sotto voce",Q7564035,dynamic,"musical notation",timbre,conductor
+"sotto voce",Q7564035,dynamic,"musical notation",timbre,composer
+"sotto voce",Q7564035,dynamic,"musical notation",loudness,conductor
+"sotto voce",Q7564035,dynamic,"musical notation",loudness,composer
+"sotto voce",Q7564035,"musical expression","musical technique",timbre,conductor
+"sotto voce",Q7564035,"musical expression","musical technique",timbre,composer
+"sotto voce",Q7564035,"musical expression","musical technique",loudness,conductor
+"sotto voce",Q7564035,"musical expression","musical technique",loudness,composer
+"sotto voce",Q7564035,"musical expression","musical notation",timbre,conductor
+"sotto voce",Q7564035,"musical expression","musical notation",timbre,composer
+"sotto voce",Q7564035,"musical expression","musical notation",loudness,conductor
+"sotto voce",Q7564035,"musical expression","musical notation",loudness,composer
+"buff stop",Q123059541,"musical instrument part","musical notation",timbre,performer
+"buff stop",Q123059541,"musical instrument part","musical technique",timbre,performer
+"musical instrument part",Q19659292,,"musical instrument part",timbre,performer
+sostenuto,Q945900,articulation,"musical notation",duration,editor
+sostenuto,Q945900,articulation,"musical notation",duration,conductor
+sostenuto,Q945900,articulation,"musical notation",duration,composer
+sostenuto,Q945900,articulation,"musical notation",timbre,editor
+sostenuto,Q945900,articulation,"musical notation",timbre,conductor
+sostenuto,Q945900,articulation,"musical notation",timbre,composer
+sostenuto,Q945900,"musical phrasing","musical notation",duration,editor
+sostenuto,Q945900,"musical phrasing","musical notation",duration,conductor
+sostenuto,Q945900,"musical phrasing","musical notation",duration,composer
+sostenuto,Q945900,"musical phrasing","musical notation",timbre,editor
+sostenuto,Q945900,"musical phrasing","musical notation",timbre,conductor
+sostenuto,Q945900,"musical phrasing","musical notation",timbre,composer
+sostenuto,Q945900,"musical expression","musical notation",duration,editor
+sostenuto,Q945900,"musical expression","musical notation",duration,conductor
+sostenuto,Q945900,"musical expression","musical notation",duration,composer
+sostenuto,Q945900,"musical expression","musical notation",timbre,editor
+sostenuto,Q945900,"musical expression","musical notation",timbre,conductor
+sostenuto,Q945900,"musical expression","musical notation",timbre,composer
+"plainchant transcription",,,translation,pitch,editor
+"plainchant transcription",,,translation,pitch,"scholar (owner)"
+"plainchant transcription",,,translation,duration,editor
+"plainchant transcription",,,translation,duration,"scholar (owner)"
+"plainchant transcription",,,"musical notation",pitch,editor
+"plainchant transcription",,,"musical notation",pitch,"scholar (owner)"
+"plainchant transcription",,,"musical notation",duration,editor
+"plainchant transcription",,,"musical notation",duration,"scholar (owner)"
+bookplate,Q188456,impression,impression,,"scholar (owner)"
+translation,Q7553,,,,performer
+translation,Q7553,,,,editor
+"comparative study",Q58901591,,"music theory",,"scholar (owner)"
+"comparative study",Q58901591,,"music theory",,editor
+comparison,Q1720648,,,,"scholar (owner)"
+comparison,Q1720648,,,,editor
+"Volti subito",Q2268953,,"musical notation",,editor
+"Volti subito",Q2268953,,"musical concept",,editor
+"performance practice",Q124518087,,"musical concept",,performer
+"performance practice",Q124518087,,"musical concept",,editor
+pointer,,,glyph,,
