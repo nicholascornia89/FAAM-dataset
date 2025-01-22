@@ -24,4 +24,5 @@ institution-composer-title-identifier-format-page_number
 	- **ps** (Polyphonic Score): A score for one instrument that uses more than one staff for embedding its voices, like a keyboard or a harp.
 	- **fs** (Full Score): a combination of several voices and staves in one system, like a song or an orchestral score.
 	- **mt** (Music Treatise): combination of text and music
+	- *tx* (Text): text-only document.
 - **page_number (5 digits)**: note that each format has its own numeric order.
